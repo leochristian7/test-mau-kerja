@@ -17,11 +17,11 @@ samples, guidance on mobile development, and a full API reference.
 
 # Answer
 
-1 . clean architectur
-2 . dio because to get data from api
-3 . 5 hours
-4 . Fixing the display
-5 . state management bloc, because bloc can manage state in my app
-6 . nothing difficult
-7 . add some pagination and query from api
-8 . quality
+1. clean architectur
+2. dio because to get data from api
+3. 5 hours
+4. Fixing the display
+5. state management bloc, because bloc can manage state in my app
+6. nothing difficult
+7. add some pagination and query from api
+8. quality

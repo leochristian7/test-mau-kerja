@@ -1,5 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.mau_kerja">
+    package="com.test.mau_kerja">
+    <uses-permission android:name="android.permission.INTERNET"/>
+    
    <application
         android:label="mau_kerja"
         android:name="${applicationName}"
